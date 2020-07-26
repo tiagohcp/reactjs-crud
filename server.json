@@ -10,7 +10,7 @@
     },
     {
       "id": 6,
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Veggie -  extra tomate seco",
       "price": "25.90",
@@ -18,7 +18,7 @@
     },
     {
       "id": 7,
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "name": "A la Camarón",
       "price": "30.90",
@@ -29,7 +29,7 @@
       "name": "dffdfdf",
       "price": "234.90",
       "description": "fsdfsfsdf",
-      "available": true,
+      "available": false,
       "id": 8
     }
   ]
